@@ -83,7 +83,7 @@ Each task represents a key data analytics skill in the lifecycle of a real busin
 - Integration of SQL results with Python analysis  
 
 🔗 Repository:  
-👉 *[Task 3 – SQL Analysis](https://github.com/keerthanaanem/ApexPlanet-Data-Analytics-Internship/tree/main/Task%203%20Deep-Dive-Analysis-Interactive-Dashboard)*
+👉 *[Task 3 – SQL Analysis](https://github.com/manojkumarreddydodla/ApexPlanet-Data-Analytics-Internship/tree/main/Task%203%20Deep-Dive-Analysis-Interactive-Dashboard)*
 
 ---
 
