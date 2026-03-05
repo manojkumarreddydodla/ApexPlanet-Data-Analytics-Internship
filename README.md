@@ -96,7 +96,7 @@ Each task represents a key data analytics skill in the lifecycle of a real busin
 - Translating data insights into business impact  
 
 🔗 Repository:  
-👉 *[Task 4 – Data Storytelling & Statistics](https://github.com/keerthanaanem/ApexPlanet-Data-Analytics-Internship/tree/main/Task%204%20-%20Data%20Storytelling%20%26%20Statistical%20Validation)*
+👉 *[Task 4 – Data Storytelling & Statistics](https://github.com/manojkumarreddydodla/ApexPlanet-Data-Analytics-Internship/tree/main/Task%204%20-%20Data%20Storytelling%20%26%20Statistical%20Validation)*
 
 ---
 
